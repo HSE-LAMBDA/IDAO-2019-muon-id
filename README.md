@@ -1,4 +1,4 @@
-# Baseline solutions for the Online Round of IDAO-2019
+# Baseline solutions for the SHAD muon identification competition
 
 [`Baseline - simple.ipynb`](https://github.com/yandexdataschool/IDAO-2018-muon-id/blob/master/Baseline%20-%20simple.ipynb) contains a naive xgboost solution and creates a model file for Track 2
 
