@@ -1,8 +1,8 @@
 # Baseline solutions for the SHAD muon identification competition
 
-[`Baseline - simple.ipynb`](https://github.com/yandexdataschool/IDAO-2018-muon-id/blob/master/Baseline%20-%20simple.ipynb) contains a naive xgboost solution and creates a model file for Track 2
+[`Baseline - simple.ipynb`](https://github.com/HSE-LAMBDA/SHAD-2020-muon-id/blob/master/Baseline%20-%20simple.ipynb) contains a naive xgboost solution and creates a model file for Track 2
 
-[`Baseline - advanced.ipynb`](https://github.com/yandexdataschool/IDAO-2018-muon-id/blob/master/Baseline%20-%20advanced.ipynb) contains a primer on jagged arrays processing and creates a model file for Track 2
+[`Baseline - advanced.ipynb`](https://github.com/HSE-LAMBDA/SHAD-2020-muon-id/blob/master/Baseline%20-%20advanced.ipynb) contains a primer on jagged arrays processing and creates a model file for Track 2
 
 `track_2_baseline_advanced_cpp` contains an example submission for
 Track 2 with catboost and jagged arrays in C++. Run `make all` to
